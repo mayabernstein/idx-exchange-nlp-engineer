@@ -1,2 +1,5 @@
 *.sql
 *.csv
+*.env.example
+*.env
+*.json
